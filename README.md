@@ -1,0 +1,1 @@
+This is Bazim's gambling card game based on the drinking game "F*ck The Bus".
